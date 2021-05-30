@@ -2,7 +2,7 @@
 note that this source code is configured to work on a blogspot template, if you are going to use it on a simple HTML page you need to modify it to make it work.
 
 # ⚠️Alert
-# Google has completely changed the way in which its forms are sent via POST, so this tutorial is no longer compatible.
+# Google has completely changed the way in which its forms are sent via POST, so this tutorial is no longer compatible, we will update soon using php or other free form service.
 
 # where do you get passwords in the google form.
 
