@@ -23,7 +23,7 @@ password entry https://github.com/MTHS1901/facebook-mobile-xploit/blob/ac7972d1d
 
 ### DONE!
 
-### xploit example on blospot: https://pt-facebook.blogspot.com (please don't submit your username and password.)
+### xploit example on blospot: {DELETED} (please don't submit your username and password.)
 
 #### Entered
   <img src = "https://raw.githubusercontent.com/MTHS1901/facebook-mobile-xploit/master/4.png" width = "350">
